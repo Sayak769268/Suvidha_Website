@@ -208,21 +208,7 @@ This is an internship project, but contributions are welcome:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📱 Mobile Optimization
-
-### **Recent Improvements**
-- ✅ Fixed mobile white space issues
-- ✅ Optimized header height for mobile devices
-- ✅ Responsive hero section with adaptive sizing
-- ✅ Mobile-first CSS approach
-- ✅ Touch-friendly navigation elements
-
-### **Mobile Features**
-- Hamburger menu for mobile navigation
-- Optimized touch targets (44px minimum)
-- Responsive images and layouts
-- Reduced padding and margins on small screens
+   
 
 ## 🔍 SEO & Performance
 
@@ -252,7 +238,7 @@ This is an internship project, but contributions are welcome:
 ### **Project Scope**
 - **Duration:** Internship period
 - **Organization:** Suvidha Foundation
-- **Role:** Web Developer Intern
+- **Role:** Web Development Intern
 - **Technologies:** Next.js, React, Tailwind CSS
 
 ### **Learning Outcomes**
@@ -277,15 +263,6 @@ This is an internship project, but contributions are welcome:
 ## 📄 License
 
 This project is developed as part of an internship with Suvidha Foundation. All rights reserved.
-
----
-
-## 🙏 Acknowledgments
-
-- **Suvidha Foundation** - For providing the internship opportunity
-- **Next.js Team** - For the amazing React framework
-- **Tailwind CSS** - For the utility-first CSS framework
-- **Netlify** - For hosting and deployment services
 
 ---
 
