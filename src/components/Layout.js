@@ -9,7 +9,6 @@ export default function Layout({ children, title = 'Suvidha Foundation', descrip
       <Head>
         <title>{title}</title>
         <meta name="description" content={description} />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       
       <div className="flex flex-col min-h-screen">

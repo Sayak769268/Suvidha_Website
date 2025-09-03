@@ -11,10 +11,61 @@
   
   body {
     @apply font-sans text-gray-800;
+    margin: 0;
+    padding: 0;
   }
   
   h1, h2, h3, h4, h5, h6 {
     @apply font-heading font-bold;
+  }
+  
+  /* Remove default margins and padding for mobile */
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Ensure no extra spacing on mobile */
+  @media (max-width: 768px) {
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      margin: 0;
+      padding: 0;
+    }
+    
+    main {
+      margin: 0;
+      padding: 0;
+    }
+    
+    /* Remove any default spacing from HTML elements */
+    html, body, div, header, main, section, article, aside, nav, footer {
+      margin: 0;
+      padding: 0;
+    }
+    
+    /* Ensure header components have no extra spacing */
+    .container {
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+    }
+    
+    /* Optimize for mobile viewport */
+    .sticky {
+      position: -webkit-sticky;
+      position: sticky;
+    }
+  }
+  
+  /* Additional mobile optimizations */
+  @media (max-width: 640px) {
+    .container {
+      padding-left: 0.25rem;
+      padding-right: 0.25rem;
+    }
   }
 }
 

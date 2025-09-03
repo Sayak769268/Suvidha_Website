@@ -16,7 +16,7 @@ import Footer from '../components/Footer';
 
 export default function Home() {
   return (
-    <div>
+    <div className="m-0 p-0">
       <Head>
         <title>Suvidha Foundation - Empowering Through Education</title>
         <meta name="description" content="Suvidha Foundation is a non-profit organization working to impart education among the financially challenged sections." />
@@ -24,7 +24,7 @@ export default function Home() {
       </Head>
 
       <Header />
-      <main>
+      <main className="m-0 p-0">
         <Hero />
         <About />
         <Features />
