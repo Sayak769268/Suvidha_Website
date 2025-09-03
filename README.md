@@ -167,7 +167,7 @@ npm start
 - **Certificate Verification** - System for verifying certificates
 - **Contact Forms** - Multiple contact channels
 - **Social Media Integration** - LinkedIn and Instagram links
-
+  
 ## 🔧 Configuration Files
 
 ### **Next.js Configuration** (`next.config.js`)
@@ -262,10 +262,8 @@ This is an internship project, but contributions are welcome:
 
 ## 📄 License
 
-This project is developed as part of an internship with Suvidha Foundation. All rights reserved.
+💡 This project was built as part of my internship with **Suvidha Foundation**.  
+If you find it useful, ⭐ star the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/sayakmukherjee05/)!
 
----
 
-**⭐ Star this repository if you found it helpful!**
 
-**Made with ❤️ by Sayak Mukherjee for Suvidha Foundation**
